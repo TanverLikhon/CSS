@@ -1,0 +1,23 @@
+body{
+    background: #EAECEE;
+}
+h1{
+    font-size: 45px;
+    text-align: center;
+    color:blue;
+}
+.tanver{
+    width:400px;
+    text-align: center;
+    margin:auto;
+    border:2px solid #d4d4d4d4;
+    box-shadow: 4px 8px 10px rgba(0,0,0,0.2),-5px 5px 10px rgba(0,0,0,0.2);
+    transform:skewX(2deg);
+}
+.tanver img{
+    width:100%;
+   
+}
+.container{
+    padding:10px;
+}

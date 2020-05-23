@@ -1,0 +1,14 @@
+.bg{
+    width:600px;
+    height: 400px;
+    background: url('TanverAhmed.jpg') no-repeat center/cover;
+    overflow: hidden;
+}
+.box p{
+    text-align: center ;
+    background: #fff;
+    padding: 30px;
+    opacity: 0.6;
+    margin-top: 20px;
+    
+}

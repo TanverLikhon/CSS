@@ -1,0 +1,10 @@
+.area{
+    height: 400px;
+    width:400px;
+    background-image: linear-gradient(to right bottom,red,yellow,green);
+    background-image:repeating-linear-gradient(red,yellow 10%,green 20%);
+    background-image:radial-gradient(red,yellow,green);
+    background-image:radial-gradient(ellipse,red,yellow,green);
+    background-image: radial-gradient(closest-corner at 60% 55%, red, yellow, black);
+    
+}

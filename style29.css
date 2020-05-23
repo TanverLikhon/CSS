@@ -1,0 +1,11 @@
+.box{
+    height: 300px;
+    width:300px;
+    background: red;
+}
+
+@media screen and (max-width:480px){
+    .box{
+        background:green;
+    }
+}
